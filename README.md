@@ -133,10 +133,9 @@ Flujo: `feature/*` → `develop` (merge `--no-ff`) → `main` (release). Mensaje
 
 ## 7. Documentación
 
-El informe técnico de la actividad está en [`docs/Guaman_Cinthia_ActividadIntegradora2.pdf`](docs/Guaman_Cinthia_ActividadIntegradora2.pdf) (versión editable `.docx` en la misma carpeta).
+INFORME EN PDF
 
 ## Créditos
 
 - **Autora:** Cinthia Marisol Guamán Montaño
-- Fotos de los postres: Wikimedia Commons.
-- Se utilizó un asistente de IA (Claude, de Anthropic) como apoyo; ver la declaración en el informe.
+- 
